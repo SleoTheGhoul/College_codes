@@ -1,3 +1,8 @@
+
+ # Program to allow the user to chose out of:- Automorphic no.,Armstrong no.,
+ # Buzz no.,Perfect no.,Pronic no.,Happy no. and Emrip no.
+ # And check if the no. inputed later is either the type of no. chosen
+ 
 class WeirdNos:
     def b(self):  # To help print Automorphic no.
         n = int(input("Enter a number: \n"))  # To take input of a no.
